@@ -1,8 +1,8 @@
 export const projects = [
   {
     img: "https://user-images.githubusercontent.com/87552836/154544711-3403868d-05e4-49b0-ab5f-452a52e09fac.png",
-    title: "Nodestrom",
-    des: "Nodestrom is an American luxury department store chain which deals with the sale of clothing, footwear, handbags, jewelry, accessories, cosmetics and fragrances.In this project I had work on NavBar HomePage and Login and Woman Product Page.",
+    title: "Nordstrom",
+    des: "Nordstrom is an American luxury department store chain which deals with the sale of clothing, footwear, handbags, jewelry, accessories, cosmetics and fragrances.In this project I had work on NavBar HomePage and Login and Woman Product Page.",
     demo: "",
     live: "https://relaxed-blackwell-8ba8bf.netlify.app/home.html",
     gitHub: "https://github.com/keshavmishra2/Nordstrom-Project",
