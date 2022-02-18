@@ -26,7 +26,7 @@ function App() {
 					className='logoStart'
 				>
 					<img
-						src='https://drive.google.com/file/d/1BQu4fBWylqjCYfIysxlgFksjcHB6si5U/view?usp=sharing'
+						src='https://user-images.githubusercontent.com/87552836/154631337-36738c6c-c851-46af-a0f1-2182ac549685.png'
 						alt='logo'
 					/>
 				</div>
