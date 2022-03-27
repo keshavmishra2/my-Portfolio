@@ -26,7 +26,7 @@ export const projects = [
     gitHub: "https://github.com/Lpavan6445/Cult.fit-clone",
     technologies: [
       "HTML",
-      "CS",
+      "CSS",
       "JavaScript",
       "MongoDB",
       "Mongoose",
