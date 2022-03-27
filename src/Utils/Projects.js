@@ -1,6 +1,15 @@
 export const projects = [
   {
     img: "https://user-images.githubusercontent.com/87552836/154544711-3403868d-05e4-49b0-ab5f-452a52e09fac.png",
+    title: "Patreon",
+    des: "Patreon is a membership platform that makes it easy for artists and creators to get paid, where artists get paid through patron.On Patreon, you can let your fans become active participants in the work they love by offering them a monthly membership.",
+    demo: "",
+    live: "https://patreon-clone.netlify.app/",
+    gitHub: "https://github.com/keshavmishra2/Patreon-clone",
+    technologies: ["HTML", "CSS", "JavaScript", "MongoDB Atlas", "Router Api", "React", "MUI library"],
+  },
+  {
+    img: "https://user-images.githubusercontent.com/87552836/154544711-3403868d-05e4-49b0-ab5f-452a52e09fac.png",
     title: "Nordstrom",
     des: "Nordstrom is an American luxury department store chain which deals with the sale of clothing, footwear, handbags, jewelry, accessories, cosmetics and fragrances.In this project I had work on NavBar HomePage and Login and Woman Product Page.",
     demo: "",
