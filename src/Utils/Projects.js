@@ -1,6 +1,6 @@
 export const projects = [
   {
-    img: "https://user-images.githubusercontent.com/87552836/154544711-3403868d-05e4-49b0-ab5f-452a52e09fac.png",
+    img: "https://user-images.githubusercontent.com/87552836/160275246-86e7d8b8-2d02-4c47-a23d-faa7b7cbd6f5.png",
     title: "Patreon",
     des: "Patreon is a membership platform that makes it easy for artists and creators to get paid, where artists get paid through patron.On Patreon, you can let your fans become active participants in the work they love by offering them a monthly membership.",
     demo: "",
